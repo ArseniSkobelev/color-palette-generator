@@ -20,4 +20,4 @@ This is a small project made to practice React skills and use The Color API. Thi
 
 ## Screenshot
 
-![Failed to load screenshot](\readmeScreens\main.png "Screenshot of the interface")
+![Failed to load screenshot](/readmeScreens/main.png "Screenshot of the interface")
